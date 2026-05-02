@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Repaso-Funpro/2025-2/LAB4/RepasoFactoriales/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\untitled.dir\\main.c.obj -c D:\\Repaso-Funpro\\2025-2\\LAB4\\RepasoFactoriales\\main.c",
+  "file": "D:/Repaso-Funpro/2025-2/LAB4/RepasoFactoriales/main.c",
+  "output": "D:/Repaso-Funpro/2025-2/LAB4/RepasoFactoriales/cmake-build-debug/CMakeFiles/untitled.dir/main.c.obj"
+}
+]
